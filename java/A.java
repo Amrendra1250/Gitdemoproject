@@ -13,7 +13,6 @@ class A
 		else
 		{
 			System.out.println("Sablu");
-			System.out.println("Sablu");
 		}
 	}
 }
